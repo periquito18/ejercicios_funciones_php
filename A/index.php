@@ -2,8 +2,10 @@
 
 require_once __DIR__ . '/funciones.php';
 
-echo "Resultado de sumar(5,3): " . sumar(5, 3) . "<br>";
-echo "Resultado de esPar(10): " . (esPar(10) ? "Sí" : "No");
+/**
+ * echo "Resultado de sumar(5,3): " . sumar(5, 3) . "<br>";
+ * echo "Resultado de esPar(10): " . (esPar(10) ? "Sí" : "No");
+ */
 
 // 1) sumar
 echo "<strong>Llamada:</strong> sumar(5, 3)<br>";
